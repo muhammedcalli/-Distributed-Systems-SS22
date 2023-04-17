@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/-Distributed-Systems-SS22.iml" filepath="$PROJECT_DIR$/.idea/-Distributed-Systems-SS22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sheet3/Sheet3.iml" filepath="$PROJECT_DIR$/Sheet3/Sheet3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sheet4/Sheet4.iml" filepath="$PROJECT_DIR$/Sheet4/Sheet4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sheet5/Sheet5.iml" filepath="$PROJECT_DIR$/Sheet5/Sheet5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sheet6/Sheet6.iml" filepath="$PROJECT_DIR$/Sheet6/Sheet6.iml" />
+    </modules>
+  </component>
+</project>
